@@ -1,7 +1,7 @@
 ## Movie App
 
 ## Composition
-React 
+<li> React </li>
 React-Bootstrap 
 Webpack
 Babel
