@@ -5,6 +5,3 @@
 <li> React-Bootstrap </li>
 <li> Webpack </li>
 <li> Babel </li>
-
-## Creator
-<li> Yujin Kim </li>
